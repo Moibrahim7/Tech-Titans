@@ -662,7 +662,6 @@ with gr.Blocks(theme=gr.themes.Soft(), title="Drone RGBT Person Detector") as de
 
 demo.launch(share=True, debug=True)
 ```
-![Uploading {6988E340-524A-4E42-AA70-9779C092744A}.png…]()
 
 </details>
 
@@ -683,6 +682,9 @@ To turn off, set debug=False in launch().
 This share link is temporary and will last for up to 1 week (best effort). 
 For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal 
 in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)
+
+<img width="1198" height="884" alt="{6988E340-524A-4E42-AA70-9779C092744A}" src="https://github.com/user-attachments/assets/bbef62eb-f837-4f85-a4d8-78caa97229d3" />
+
 ```
 
 </details>
