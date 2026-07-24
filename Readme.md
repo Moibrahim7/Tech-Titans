@@ -662,6 +662,7 @@ with gr.Blocks(theme=gr.themes.Soft(), title="Drone RGBT Person Detector") as de
 
 demo.launch(share=True, debug=True)
 ```
+![Uploading {6988E340-524A-4E42-AA70-9779C092744A}.png…]()
 
 </details>
 
